@@ -1,0 +1,5 @@
+P100;Audifonos;249,15
+P101;Audifonos;950,64
+P102;Laptop;332,70
+P103;Tablet;741,79
+P104;Audifonos;820,98
